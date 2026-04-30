@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Kerja Bakti",
+    "description": "Membersihkan selokan dan taman",
+    "event_date": "2026-05-10",
+    "event_time": "08:00",
+    "location": "Lapangan Desa",
+    "status": "akan datang"
+  },
+  {
+    "id": 2,
+    "title": "Rapat Warga",
+    "description": "Pembahasan keamanan lingkungan",
+    "event_date": "2026-05-15",
+    "event_time": "19:30",
+    "location": "Balai Warga",
+    "status": "akan datang"
+  },
+  {
+    "id": 3,
+    "title": "Senam Pagi",
+    "description": "Senam sehat bersama",
+    "event_date": "2026-05-03",
+    "event_time": "07:00",
+    "location": "Halaman Masjid",
+    "status": "selesai"
+  },
+  {
+    "id": 4,
+    "title": "Lomba 17-an",
+    "description": "Panitia lomba Agustusan",
+    "event_date": "2026-08-10",
+    "event_time": "10:00",
+    "location": "Lapangan Utama",
+    "status": "akan datang"
+  }
+]

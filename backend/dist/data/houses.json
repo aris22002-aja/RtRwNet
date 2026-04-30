@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "block": "A",
+        "number": "1",
+        "address": "Jl. Mawar Blok A No. 1",
+        "status": "Terbayar",
+        "ipl_amount": 50000
+    },
+    {
+        "id": 2,
+        "block": "A",
+        "number": "2",
+        "address": "Jl. Mawar Blok A No. 2",
+        "status": "Terbayar",
+        "ipl_amount": 50000
+    },
+    {
+        "id": 3,
+        "block": "B",
+        "number": "3",
+        "address": "Jl. Mawar Blok B No. 3",
+        "status": "occupied",
+        "ipl_amount": 50000
+    },
+    {
+        "id": 4,
+        "block": "B",
+        "number": "4",
+        "address": "Jl. Mawar Blok B No. 4",
+        "status": "Terbayar",
+        "ipl_amount": 50000
+    },
+    {
+        "id": 5,
+        "block": "C",
+        "number": "5",
+        "address": "Jl. Mawar Blok C No. 5",
+        "status": "Belum Bayar",
+        "ipl_amount": 50000
+    }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "house_id": 1,
+    "month": 5,
+    "year": 2026,
+    "amount": 100000,
+    "status": "paid",
+    "paid_date": "2026-05-10",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "house_id": 2,
+    "month": 5,
+    "year": 2026,
+    "amount": 100000,
+    "status": "unpaid",
+    "paid_date": null,
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "house_id": 3,
+    "month": 5,
+    "year": 2026,
+    "amount": 100000,
+    "status": "paid",
+    "paid_date": "2026-05-12",
+    "notes": "Transfer bank"
+  },
+  {
+    "id": 4,
+    "house_id": 5,
+    "month": 5,
+    "year": 2026,
+    "amount": 100000,
+    "status": "paid",
+    "paid_date": "2026-05-08",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "house_id": 1,
+    "month": 4,
+    "year": 2026,
+    "amount": 100000,
+    "status": "paid",
+    "paid_date": "2026-04-09",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "house_id": 2,
+    "month": 4,
+    "year": 2026,
+    "amount": 100000,
+    "status": "paid",
+    "paid_date": "2026-04-10",
+    "notes": ""
+  }
+]

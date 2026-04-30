@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Bersepeda Santai",
+    "description": "Jelajah rute sawah setiap Minggu pagi",
+    "date": "Setiap Minggu",
+    "time": "06:30 - 08:00",
+    "location": "Start dari Pos Ronda",
+    "participants": 20,
+    "status": "akan datang",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "title": "Sepak Bola",
+    "description": "Pertandingan persahabatan antar RW",
+    "date": "2026-05-20",
+    "time": "16:00 - 18:00",
+    "location": "Lapangan Utama",
+    "participants": 30,
+    "status": "akan datang",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "title": "Bulu Tangkis",
+    "description": "Latihan rutin di GOR mini",
+    "date": "Setiap Selasa & Kamis",
+    "time": "19:00 - 21:00",
+    "location": "GOR Mini GH5",
+    "participants": 12,
+    "status": "akan datang",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "title": "Catur",
+    "description": "Turnamen catur bulanan",
+    "date": "2026-05-25",
+    "time": "13:00 - 17:00",
+    "location": "Balai Warga",
+    "participants": 16,
+    "status": "akan datang",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "title": "Futsal Malam",
+    "description": "Liga malam Jumat antar blok",
+    "date": "Setiap Jumat",
+    "time": "20:00 - 22:00",
+    "location": "Lapangan Futsal GH5",
+    "participants": 22,
+    "status": "selesai",
+    "image": ""
+  }
+]

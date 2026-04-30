@@ -1,0 +1,14 @@
+[
+  {
+    "type": "postingan",
+    "time": "2026-04-30 09:00",
+    "message": "Postingan baru: Pengumuman Penting",
+    "user": "Pak RT"
+  },
+  {
+    "type": "pembayaran",
+    "time": "2026-04-29 15:30",
+    "message": "Pembayaran Rp 250.000 oleh Budi",
+    "user": "Budi"
+  }
+]

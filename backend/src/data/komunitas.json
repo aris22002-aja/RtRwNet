@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Komunitas Sepeda GH5",
+    "description": "Bersepeda santai setiap Minggu pagi",
+    "category": "olahraga",
+    "memberCount": 25,
+    "location": "Lapangan GH5"
+  },
+  {
+    "id": 2,
+    "name": "Majelis Taklim Al-Hidayah",
+    "description": "Pengajian rutin setiap Kamis malam",
+    "category": "keagamaan",
+    "memberCount": 40,
+    "location": "Masjid Al-Hidayah"
+  },
+  {
+    "id": 3,
+    "name": "Sanggar Seni Harmony",
+    "description": "Latihan tari dan musik tradisional",
+    "category": "seni",
+    "memberCount": 15,
+    "location": "Balai Warga"
+  },
+  {
+    "id": 4,
+    "name": "Kelompok Tani Maju",
+    "description": "Diskusi pertanian dan hidroponik",
+    "category": "pendidikan",
+    "memberCount": 18,
+    "location": "Kebun Bersama"
+  },
+  {
+    "id": 5,
+    "name": "Peduli Sosial GH5",
+    "description": "Donasi dan bakti sosial untuk warga kurang mampu",
+    "category": "sosial",
+    "memberCount": 35,
+    "location": "Posko Sosial"
+  }
+]

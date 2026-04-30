@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Nasi Goreng Spesial",
+    "category": "makanan",
+    "price": 15000,
+    "description": "Nasi goreng lezat buatan warga",
+    "seller": "Ibu Ani",
+    "phone": "08111222333",
+    "image": null
+  }
+]

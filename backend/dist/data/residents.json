@@ -1,0 +1,34 @@
+[
+    {
+        "house_id": 1,
+        "name": "Ahmad Fauzi",
+        "phone": "081234567890",
+        "ktp_number": "3201010101010001",
+        "is_owner": 1,
+        "move_in_date": "2020-03-15"
+    },
+    {
+        "house_id": 2,
+        "name": "Siti Nurhaliza",
+        "phone": "081298765432",
+        "ktp_number": "3201010202020002",
+        "is_owner": 1,
+        "move_in_date": "2019-08-01"
+    },
+    {
+        "house_id": 3,
+        "name": "Budi Santoso",
+        "phone": "082112345678",
+        "ktp_number": "3201010303030003",
+        "is_owner": 0,
+        "move_in_date": "2022-01-10"
+    },
+    {
+        "house_id": 5,
+        "name": "Dewi Lestari",
+        "phone": "085611112222",
+        "ktp_number": "3201010505050005",
+        "is_owner": 1,
+        "move_in_date": "2021-06-20"
+    }
+]

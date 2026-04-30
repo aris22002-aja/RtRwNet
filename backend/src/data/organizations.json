@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Rukun Warga 05",
+    "description": "Organisasi resmi RW 05",
+    "members": [
+      { "name": "Agus", "position": "Ketua", "phone": "08123456789", "email": "agus@email.com" }
+    ]
+  }
+]
